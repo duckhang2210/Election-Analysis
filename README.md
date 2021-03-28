@@ -8,7 +8,7 @@ The purpose of this election audit analysis is to help answering questions about
 
 ## Election-Audit Results
 
-1. There are total 369,711 votes were cast in this election
+1. There are total 369,711 votes were cast in this election.
    ![Total votes](/Resources/total_vote.png)
 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 3. Which county had the largest number of votes?
